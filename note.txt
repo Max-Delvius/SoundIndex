@@ -1,0 +1,14 @@
+Things needed for this app 
+like i mean features 
+
+Target is to make best music library management tool, first and main function basically is tagging 
+which has subs
+1. Metadata like date, track name ( mostly will be there in the file but anyways) Artist name and artist sort order and original year and more mainly using musicbrainz  and language also mostly music brainz can't add language as it does not consider the language tag.
+2. Genre and Mood are main thing it should have and able tag 
+3. Cover Art 
+4. Lyric adding by using Lrclib and other libs and it is better not embedding lyrics in the music file just create .lrc file with same file name as music file like lrcget tool 
+ and i think we should add a feature which we change the lrc file names fast and match with the music file as struggled a lot 
+
+i want to open source this and  so i need fully free api's with no limit and i want this to be community driven project and i making to fit according my needs like Linus who made Linux 
+
+I should able to scale this project and maintainable
